@@ -28,3 +28,7 @@ Em caso de python:
 python cad_classifier.py
 ```
 É importante garantir que o arquivo `CAD.csv` esteja na mesma pasta que o código.
+
+## Mais informações
+
+Para mais informações sobre o projeto, assista ao vídeo feito pelos organizadores descrevendo a motivação por trás do projeto. O vídeo pode ser encontrado [aqui](https://youtu.be/cdmFSs4j_go).
